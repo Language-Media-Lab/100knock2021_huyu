@@ -28,6 +28,7 @@ https://qiita.com/shizuma/items/2b2f873a0034839e47ce
 わからない点があればどんなことでもTAへ質問してください．  
 
 # usage
+以下はGithubでssh接続できている前提で書いています．
 初回はこのレポジトリを clone してください。  　　
 ```
 $ git clone git@github.com:Language-Media-Lab/100knock2021_huyu.git
