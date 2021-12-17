@@ -47,7 +47,7 @@ $ git clone git@github.com:Language-Media-Lab/100knock2021_huyu.git
 # clone したディレクトリへ移動
 $ cd 100knock2021_huyu
 # 取り組むChapterへ移動
-$ cd chapter1
+$ cd chapter01
 #新規ブランチ作成
 $ git branch hokudai_taro
 #作成したブランチに切り替え
