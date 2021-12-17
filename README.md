@@ -44,6 +44,8 @@ $ git clone git@github.com:Language-Media-Lab/100knock2021_huyu.git
 各Chapterのはじめでは、各Chapterのディレクトリへ移動し、ブランチを切って、自分用の作業用ブランチで作業してください。  
 ブランチの名前は自分の名前にしてください(例：北大太郎の場合、hokudai_taro)
 ```
+# clone したディレクトリへ移動
+$ cd 100knock2021_huyu
 # 取り組むChapterへ移動
 $ cd chapter1
 #新規ブランチ作成
