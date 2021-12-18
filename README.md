@@ -19,7 +19,7 @@ TA(チューター)
 
 ## Jupyter Notebookのテンプレート
 Google colab等のJupyter Notebook形式で作成される方は以下のリンクに3章から10章までの問題文のみを記載したテンプレートを置きました．  
-8章9章の問題文の数式とかをマークダウン記法で書き写すのが面倒な方はお使いください．
+8章9章の問題文の数式とかをマークダウン記法で書き写すのが面倒な方はお使いください．  
 https://drive.google.com/drive/folders/1vuE6o-nGLmzFAjhs25RTbTLxkgrk6D5L?usp=sharing
 
 
